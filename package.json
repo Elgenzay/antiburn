@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@zeppos/device-types": "^3.0.0"
+  }
+}
